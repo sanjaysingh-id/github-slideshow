@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my second slide!"
 ---
-Your text
+> Harus RAJIN BELAJAR!!! HARUS !!!
 use left arrow to go back!
